@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#hd{
+    overflow: hidden;
+}
+.html{
+    transform: scale(.5);
+    transition: 3s;
+}
+.html:hover{
+    transform: scale(1.1);
+}
+.css{
+    transform: scale(.5);
+    transition: 3s;
+}
+.css:hover{
+    transform: scale(1.1);
+}
+.js{
+    transform: scale(.5);
+    transition: 3s;
+}
+.js:hover{
+    transform: scale(1.1);
+}
+.bt{
+    transform: scale(.5);
+    transition: 3s;
+}
+.bt:hover{
+    transform: scale(1.1);
+}
+.jqy{
+    transform: scale(.5);
+    transition: 3s;
+}
+.jqy:hover{
+    transform: scale(1.1);
+}
+.git{
+    transform: scale(.5);
+    transition: 3s;
+}
+.git:hover{
+    transform: scale(1.1);
+}
+.insta{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+span{
+    color:white;
+}
